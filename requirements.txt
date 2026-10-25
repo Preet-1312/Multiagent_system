@@ -1,0 +1,35 @@
+# Multi-Agent Research System
+# Python dependencies
+
+# LangChain core and LCEL pipelines
+langchain
+langchain-core
+langchain-community
+
+# Google Gemini LLM integration (instead of OpenAI)
+langchain-google-genai
+google-genai
+
+# Agent orchestration and tool calling
+langgraph
+
+# Tavily web search tool
+langchain-tavily
+tavily-python
+
+# Web scraping and HTML parsing
+beautifulsoup4
+requests
+lxml
+
+# Environment variable management
+python-dotenv
+
+# Data validation and structured outputs
+pydantic
+
+# Optional: useful for retries and HTTP handling
+tenacity
+
+# Optional: notebook-based experimentation
+# jupyter
